@@ -19,3 +19,4 @@ str9 = '456'
 str10 = str7 + str9
 print(str(10))
 print(type(str10))
+print("Hello")
